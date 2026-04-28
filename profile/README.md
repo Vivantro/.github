@@ -68,10 +68,10 @@ This organization hosts public assets — methodologies, developer toolkits, tec
 
 ## Contact
 
-| Region | Address | Email |
+| Region | Address | Website |
 |---|---|---|
-| 🇫🇷 **France** | 9 rue des Colonnes, 75002 Paris | mae@vivantro.com |
-| 🇹🇳 **Tunisia** | Immeuble Rosalys, Bloc B, rue de l'île Sabah, Les Berges du Lac 2, 2035 Tunis | mae@access-international.dev |
+| 🇫🇷 **France** | 9 rue des Colonnes, 75002 Paris | [vivantro.com](https://vivantro.com) |
+| 🇹🇳 **Tunisia** | Immeuble Rosalys, Bloc B, rue de l'île Sabah, Les Berges du Lac 2, 2035 Tunis | [access-international.dev](https://access-international.dev) |
 
 ---
 
